@@ -1,0 +1,15 @@
+
+
+Project Enhancements:
+
+Incorporate Evaluation Metrics for RAG:
+
+Implement evaluation metrics for Retrieval-Augmented Generation (RAG) using RAGAS (Retrieval-Augmented Generation Assessment Score) to measure performance and effectiveness.
+
+Support for Multiple Documents:
+
+Develop functionality to handle and process multiple documents, enhancing the capability to retrieve and generate information from various sources simultaneously.
+
+Reduce Latency with Improved VLM:
+
+Optimize latency by utilizing a more efficient Vision Language Model (VLM) than Gemini, ensuring faster response times and improved performance in processing visual and textual data.
