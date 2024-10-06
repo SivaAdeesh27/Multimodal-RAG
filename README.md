@@ -1,6 +1,6 @@
 # Multimodal-RAG
 
-# DocRAG: Document Retrieval Augmented Generation with Images
+## DocRAG: Document Retrieval Augmented Generation with Images
 
 This project is a Gradio-based interface that answers user queries using a Retrieval-Augmented Generation (RAG) approach. It retrieves relevant documents, generates concise responses, and displays related images. The system utilizes a combination of the LangChain library and the ChatGroq model to perform document retrieval and question-answering tasks. Below is a breakdown of the main components of the project and how they function.
 
