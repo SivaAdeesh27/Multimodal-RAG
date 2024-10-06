@@ -51,7 +51,7 @@ The project relies on several important libraries:
 - **PIL (Python Imaging Library)**: For loading and handling images.
 - **Matplotlib**: Provides the option to visualize data, though it is not used directly in this code.
 
-Add the secrets for the colab from colab_secrets.txt and image_descriptions_gemini.csv contains all the image descriptions and its metadata from pdf file, add it to the colab and as well as the vits.pdf also.
+Add the secrets for the colab from colab_secrets.txt and image_descriptions_gemini.csv contains all the image descriptions and its metadata from pdf file(only vits.pdf), add it to the colab and as well as the vits.pdf also.
 
 ## Detailed Workflow
 1. **Input Query**: The user enters a query into the Gradio textbox.
