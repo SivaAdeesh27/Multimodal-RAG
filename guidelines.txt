@@ -1,0 +1,5 @@
+1. Use the secrets from colab_secrets.txt for the api access
+2. upload the vits.pdf(vision transformer pdf file) and image_descriptions_gemini.csv which stores the image descriptions of vits.pdf
+3.I have created a gradio interface which is commented as gradio server is currently down. So, I have defined a function to run the RAG pipeline without any interface.
+4. Refer the video I have shared in the drive if any issues.
+5. If you are running the code another time, make sure to change the persistent directory of vectordb, lets say the first time you run is stored in /content/docs1, if you restart and run second time, make sure let it be /content/docs2 or something.Or, you can clean the persistent dir. and can the file again.
